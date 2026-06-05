@@ -21,3 +21,12 @@
 - Documented mathematical differences between Standard and MinMax scaling
 - Explained why wrong scaling causes severe errors in SVM models
 - **Files:** `standard_scaled_data.csv`, `minmax_scaled_data.csv`, `Normalization brief.docx`
+
+---
+
+## Day 4: Feature Engineering Pipeline & Feature Encoding Brief
+- Built a feature engineering pipeline on a messy datetime dataset
+- Extracted day of week, month, year, day of year, and US holiday status
+- Applied Label Encoding and One-Hot Encoding using vectorized Pandas
+- Documented why raw strings break models and the difference between encoding methods
+- **Files:** `feature_engineering.py`, `feature_engineered_data.csv`, `Feature Encoding Brief.docx`
