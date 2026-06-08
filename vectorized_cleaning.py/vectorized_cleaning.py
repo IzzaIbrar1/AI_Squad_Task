@@ -1,47 +1,54 @@
 import pandas as pd
 import numpy as np
 
+
 df = pd.read_csv('dirty_data.csv')
 print("Original shape:", df.shape)
 print("Missing values before:\n", df.isnull().sum())
+
 
 df['Age'] = df['Age'].fillna(df['Age'].median())
 df['Score'] = df['Score'].fillna(df['Score'].median())
 print("\nMissing values after fillna:\n", df.isnull().sum())
 
-def remove_outliers_iqr(df, column):
-    Q1 = df[column].quantile(0.25)
-    Q3 = df[column].quantile(0.75)
-    IQR = Q3 - Q1
-    lower = Q1 - 1.5 * IQR
-    upper = Q3 + 1.5 * IQR
-    return df[(df[column] >= lower) & (df[column] <= upper)]
+
+def remove_outliers_iqr(dataframe, column):
+    """Remove outliers from a column using the IQR method."""
+    q1 = dataframe[column].quantile(0.25)
+    q3 = dataframe[column].quantile(0.75)
+    iqr = q3 - q1
+    lower = q1 - 1.5 * iqr
+    upper = q3 + 1.5 * iqr
+    return dataframe[(dataframe[column] >= lower) & (dataframe[column] <= upper)]
+
 
 df = remove_outliers_iqr(df, 'Age')
 df = remove_outliers_iqr(df, 'Score')
 print("\nShape after outlier removal:", df.shape)
 
+
 df_standard = df.copy()
-for col in ['Age', 'Score']:
-    mean = df_standard[col].mean()
-    std = df_standard[col].std()
-    df_standard[col] = (df_standard[col] - mean) / std
+cols = ['Age', 'Score']
+
+df_standard[cols] = (df_standard[cols] - df_standard[cols].mean()) / df_standard[cols].std()
 
 print("\nStandard Scaled Sample:")
 print(df_standard[['Age', 'Score']].head())
-print("Mean after scaling (should be ~0):", df_standard[['Age','Score']].mean().round(4).to_dict())
-print("Std after scaling (should be ~1):", df_standard[['Age','Score']].std().round(4).to_dict())
+print("Mean after scaling (should be ~0):", df_standard[cols].mean().round(4).to_dict())
+print("Std after scaling (should be ~1):", df_standard[cols].std().round(4).to_dict())
+
 
 df_minmax = df.copy()
-for col in ['Age', 'Score']:
-    min_val = df_minmax[col].min()
-    max_val = df_minmax[col].max()
-    df_minmax[col] = (df_minmax[col] - min_val) / (max_val - min_val)
+
+df_minmax[cols] = (df_minmax[cols] - df_minmax[cols].min()) / (
+    df_minmax[cols].max() - df_minmax[cols].min()
+)
 
 print("\nMinMax Scaled Sample:")
 print(df_minmax[['Age', 'Score']].head())
-print("Min after scaling (should be 0):", df_minmax[['Age','Score']].min().to_dict())
-print("Max after scaling (should be 1):", df_minmax[['Age','Score']].max().to_dict())
+print("Min after scaling (should be 0):", df_minmax[cols].min().to_dict())
+print("Max after scaling (should be 1):", df_minmax[cols].max().to_dict())
+
 
 df.to_csv('cleaned_data.csv', index=False)
 df_standard.to_csv('standard_scaled_data.csv', index=False)

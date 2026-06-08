@@ -30,3 +30,12 @@
 - Applied Label Encoding and One-Hot Encoding using vectorized Pandas
 - Documented why raw strings break models and the difference between encoding methods
 - **Files:** `feature_engineering.py`, `feature_engineered_data.csv`, `Feature Encoding Brief.docx`
+
+---
+
+## Day 5: Environment Scaffold & Vectorized Data Cleaning Pipeline
+- Installed matplotlib and regenerated requirements.txt
+- Refactored vectorized_cleaning.py to be fully PEP-8 compliant
+- Removed all for-loops from scaling operations — fully vectorized
+- Verified clean CSV output with 97,564 rows
+- **Files:** `requirements.txt`, `vectorized_cleaning.py`
