@@ -54,3 +54,14 @@
 - Generated correlation heatmap across all engineered features
 - Exported final dataset as features_v1.csv
 - **Files:** `eda_feature_engineering.ipynb`, `features_v1.csv`
+
+---
+
+### Day 7: Scikit-Learn Model Training & Cross-Validation Pipeline
+- Trained RandomForestClassifier and LogisticRegression on features_v1.csv
+- Applied class_weight='balanced' to handle class imbalance
+- Ran 5-fold StratifiedKFold cross-validation on both models
+- Random Forest CV F1: 0.4795 | Logistic Regression CV F1: 0.3345
+- Generated confusion matrices and classification reports
+- Saved both models as .pkl files using joblib
+- **Files:** `model_training.ipynb`, `random_forest_model.pkl`, `logistic_regression_model.pkl`, `confusion_matrices.png`
