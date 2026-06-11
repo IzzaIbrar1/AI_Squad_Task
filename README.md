@@ -65,3 +65,14 @@
 - Generated confusion matrices and classification reports
 - Saved both models as .pkl files using joblib
 - **Files:** `model_training.ipynb`, `random_forest_model.pkl`, `logistic_regression_model.pkl`, `confusion_matrices.png`
+
+---
+
+### Day 8: Feature Engineering Pipeline — Dynamic Datetime Extraction & Categorical Encoding
+- Loaded final_clean_v2.csv and added datetime column
+- Extracted Month, DayOfWeek, and Is_Weekend features using vectorized Pandas
+- Added Department and City categorical columns
+- Applied One-Hot Encoding with drop_first=True to avoid Dummy Variable Trap
+- Generated distribution plots for Age, Score, and Month
+- Exported model-ready dataset as model_ready_features.csv
+- **Files:** `feature_pipeline.ipynb`, `final_clean_v2.csv`, `model_ready_features.csv`, `feature_distributions.png`
