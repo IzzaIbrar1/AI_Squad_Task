@@ -76,3 +76,13 @@
 - Generated distribution plots for Age, Score, and Month
 - Exported model-ready dataset as model_ready_features.csv
 - **Files:** `feature_pipeline.ipynb`, `final_clean_v2.csv`, `model_ready_features.csv`, `feature_distributions.png`
+
+---
+
+## Weekend Project: E-Commerce Sales EDA
+
+- Performed full EDA on 10,000 e-commerce orders (2021–2024)
+- Data cleaning, preprocessing and datetime parsing
+- Generated correlation heatmap and 4 distribution/trend charts
+- Extracted 6 statistical business insights
+- **Files:** `weekend_projects/EDA_Ecommerce.ipynb`, `weekend_projects/ecommerce_cleaned.csv`
