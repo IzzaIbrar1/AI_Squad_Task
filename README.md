@@ -86,3 +86,17 @@
 - Generated correlation heatmap and 4 distribution/trend charts
 - Extracted 6 statistical business insights
 - **Files:** `weekend_projects/EDA_Ecommerce.ipynb`, `weekend_projects/ecommerce_cleaned.csv`
+
+---
+
+## Week 3
+
+---
+
+### Day 9: Baseline Logistic Regression Model — Train-Test Split & Evaluation
+- Created binary target variable: Is_High_Score (Score > 50 = 1, else 0)
+- 80/20 Train-Test Split with random_state=42
+- Trained LogisticRegression (max_iter=1000) on training data only
+- Model Accuracy: 53% — synthetic dataset with no real feature-target relationship
+- Pipeline is correct, data quality is the limiting factor
+- **Files:** `baseline_model.ipynb`, `model_ready_features.csv`, `requirements.txt`
