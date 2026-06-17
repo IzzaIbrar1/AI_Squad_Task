@@ -112,3 +112,16 @@
 - Generated confusion matrix for Random Forest
 - Saved trained model as random_forest_baseline.pkl
 - **Files:** `baseline_model.ipynb`, `random_forest_baseline.pkl`, `rf_confusion_matrix.png`
+
+---
+
+### Day 11: Hyperparameter Tuning with GridSearchCV; Bias-Variance Tradeoff
+- Created param_grid: n_estimators [10,50,100], max_depth [5,10,20], min_samples_split [2,5]
+- Ran GridSearchCV with 5-fold cross-validation on X_train only
+- Best Parameters: max_depth=5, min_samples_split=2, n_estimators=50
+- Tuned RF: Accuracy 0.5270 | Precision 0.5271 | Recall 0.9985 | F1 0.6900
+- Identified that high F1 score masked a class collapse, model predicted majority class almost universally (Recall 0.00 on class 0)
+- Documented why optimizing for plain F1 score can hide imbalanced per-class performance
+- Compared tuned model against Day 10 baseline using updated confusion matrix
+- Overwrote random_forest_baseline.pkl with optimized model
+- **Files:** `Week3/baseline_model.ipynb`, `Week3/random_forest_baseline.pkl`, `Week3/tuned_rf_confusion_matrix.png`
