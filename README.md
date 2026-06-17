@@ -100,3 +100,15 @@
 - Model Accuracy: 53% — synthetic dataset with no real feature-target relationship
 - Pipeline is correct, data quality is the limiting factor
 - **Files:** `baseline_model.ipynb`, `model_ready_features.csv`, `requirements.txt`
+
+---
+
+### Day 10: Random Forest Classifier — Ensemble Modeling & Advanced Classification Metrics
+- Trained RandomForestClassifier (n_estimators=100, random_state=42) on existing X_train/y_train split
+- Evaluated using Precision, Recall, F1-Score instead of relying only on Accuracy
+- Random Forest: Accuracy 0.5024 | Precision 0.5269 | Recall 0.5479 | F1 0.5372
+- Logistic Regression: Accuracy 0.5271 | Precision 0.5271 | Recall 1.0000 | F1 0.6903
+- Identified Logistic Regression's Recall of 1.0000 as misleading — model predicting class 1 almost universally
+- Generated confusion matrix for Random Forest
+- Saved trained model as random_forest_baseline.pkl
+- **Files:** `baseline_model.ipynb`, `random_forest_baseline.pkl`, `rf_confusion_matrix.png`
