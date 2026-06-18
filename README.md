@@ -125,3 +125,16 @@
 - Compared tuned model against Day 10 baseline using updated confusion matrix
 - Overwrote random_forest_baseline.pkl with optimized model
 - **Files:** `Week3/baseline_model.ipynb`, `Week3/random_forest_baseline.pkl`, `Week3/tuned_rf_confusion_matrix.png`
+
+---
+
+### Day 12: SMOTE Class Balancing & Feature Importance Interpretability
+- Audited y_train class distribution: 52.5% vs 47.5% (mild, not severe imbalance)
+- Applied SMOTE strictly to X_train/y_train using K-Nearest Neighbors interpolation
+- Retrained tuned Random Forest on SMOTE balanced data (X_test/y_test untouched throughout)
+- Post-SMOTE: Accuracy 0.5035 | Precision 0.5238 | Recall 0.6366 | F1 0.5747
+- Identified pre-SMOTE F1 of 0.69 as artificially inflated by majority class collapse
+- Extracted .feature_importances_ Top features: DayOfWeek, City_Paris, Age
+- Documented business interpretation of feature importance chart
+- Exported production_rf_model.pkl
+- **Files:** `Week3/baseline_model.ipynb`, `Week3/production_rf_model.pkl`, `Week3/feature_importance.png`
