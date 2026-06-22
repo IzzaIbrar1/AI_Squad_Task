@@ -138,3 +138,12 @@
 - Documented business interpretation of feature importance chart
 - Exported production_rf_model.pkl
 - **Files:** `Week3/baseline_model.ipynb`, `Week3/production_rf_model.pkl`, `Week3/feature_importance.png`
+
+---
+
+## Weekend Project 2: Loan Default Prediction — End-to-End Classification Pipeline
+
+- Built a complete classification pipeline on a 5,000-row loan default dataset (16.32% default rate)
+- Data cleaning, One-Hot Encoding, stratified 80/20 split, SMOTE (train-only), StandardScaler (leak-free)
+- Trained and compared 3 algorithms: Logistic Regression, Random Forest, Gradient Boosting
+- Selected
