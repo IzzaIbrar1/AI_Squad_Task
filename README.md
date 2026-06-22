@@ -147,3 +147,15 @@
 - Data cleaning, One-Hot Encoding, stratified 80/20 split, SMOTE (train-only), StandardScaler (leak-free)
 - Trained and compared 3 algorithms: Logistic Regression, Random Forest, Gradient Boosting
 - Selected
+
+---
+
+### Day 14: PyTorch MLP: Deep Learning Foundations & Manual Training Loop
+- Converted loan default dataset into PyTorch FloatTensor/LongTensor
+- Built custom MLP (22 → 16 ReLU → 2) using torch.nn.Module
+- Implemented manual training loop (zero_grad, forward, loss, backward, optimizer.step) no .fit() used
+- Trained 20 epochs: loss reduced from 0.8028 to 0.4291
+- Test Accuracy: 0.8370, but model collapsed into majority-class prediction (0.00 precision/recall on minority class)  same Accuracy Fallacy pattern as Week 2
+- Documented difference between NumPy arrays and PyTorch Tensors (autograd, device flexibility)
+- Explained mathematically why ReLU solves vanishing gradients vs Sigmoid
+- **Files:** `Week4/deep_learning_baseline.ipynb`, `Week4/training_loss.png`
