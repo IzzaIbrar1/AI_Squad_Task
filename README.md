@@ -155,7 +155,18 @@
 - Built custom MLP (22 → 16 ReLU → 2) using torch.nn.Module
 - Implemented manual training loop (zero_grad, forward, loss, backward, optimizer.step) no .fit() used
 - Trained 20 epochs: loss reduced from 0.8028 to 0.4291
-- Test Accuracy: 0.8370, but model collapsed into majority-class prediction (0.00 precision/recall on minority class)  same Accuracy Fallacy pattern as Week 2
+- Test Accuracy: 0.8370, but model collapsed into majority-class prediction (0.00 precision/recall on minority class) same Accuracy Fallacy pattern as Week 2
 - Documented difference between NumPy arrays and PyTorch Tensors (autograd, device flexibility)
 - Explained mathematically why ReLU solves vanishing gradients vs Sigmoid
 - **Files:** `Week4/deep_learning_baseline.ipynb`, `Week4/training_loss.png`
+
+---
+
+### Day 15: PyTorch DataLoaders, Mini-Batch Training & Adam Optimizer
+- Wrapped Day 14 tensors into TensorDataset and DataLoader (train batch_size=64 shuffle=True, val unshuffled)
+- Switched optimizer to Adam (lr=0.001), refactored training loop for mini-batches (50 batches/epoch)
+- Trained 25 epochs tracking both training and validation loss
+- Detected early overfitting signature: val loss bottomed at epoch 13 (0.3810), then crept upward while train loss kept falling
+- Documented mathematically why Adam's momentum and adaptive per-parameter learning rates outperform SGD on sparse one-hot tabular features
+- Explained why mini-batch DataLoaders prevent RAM spike crashes vs full-batch training
+- **Files:** `Week4/deep_learning_baseline.ipynb`, `Week4/train_val_loss.png`, `Week4/mlp_minibatch_model.pth`

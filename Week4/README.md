@@ -35,3 +35,25 @@ Loan default dataset (5,000 rows) from the Week 2 Weekend Project. 83.7% non-def
 pip install -r requirements.txt
 jupyter notebook deep_learning_baseline.ipynb
 ```
+
+---
+
+## Day 2: Mini-Batch Training with DataLoaders & Adam Optimizer
+
+### Upgrades from Day 14
+- Wrapped tensors into TensorDataset, split into train/val (3200/800)
+- Created DataLoaders: train_loader (batch_size=64, shuffle=True), val_loader (unshuffled)
+- Switched optimizer to Adam (lr=0.001) from default
+- Refactored training loop to iterate mini-batches (50 batches/epoch instead of 1 full-batch pass)
+- Added validation evaluation每 epoch using torch.no_grad()
+
+### Results
+- Trained 25 epochs: Train Loss 0.6919 → 0.4027, Val Loss 0.5874 → 0.3849
+- Best Val Loss: 0.3810 (epoch 13) early overfitting signature visible after this point
+- Test Accuracy: 0.8310 (Class 1 precision 0.20, recall 0.01 still effectively non-functional for minority class)
+
+### Files
+| File | Description |
+|------|-------------|
+| `train_val_loss.png` | Training vs validation loss curve over 25 epochs |
+| `mlp_minibatch_model.pth` | Saved model weights |
