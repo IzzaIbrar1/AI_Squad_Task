@@ -150,6 +150,10 @@
 
 ---
 
+## Week4
+
+---
+
 ### Day 14: PyTorch MLP: Deep Learning Foundations & Manual Training Loop
 - Converted loan default dataset into PyTorch FloatTensor/LongTensor
 - Built custom MLP (22 → 16 ReLU → 2) using torch.nn.Module
@@ -170,3 +174,13 @@
 - Documented mathematically why Adam's momentum and adaptive per-parameter learning rates outperform SGD on sparse one-hot tabular features
 - Explained why mini-batch DataLoaders prevent RAM spike crashes vs full-batch training
 - **Files:** `Week4/deep_learning_baseline.ipynb`, `Week4/train_val_loss.png`, `Week4/mlp_minibatch_model.pth`
+
+---
+
+### Day 16: Neural Network Regularization BatchNorm, Dropout & Ablation Study
+- Built RegularizedMLP with nn.BatchNorm1d and nn.Dropout(p=0.3) between Linear and ReLU layers
+- Trained baseline and regularized MLP side-by-side for 30 epochs with identical seeds/data for fair ablation comparison
+- Regularized model showed flatter, more stable validation curve (smaller train/val gap) vs baseline's drifting overfit pattern
+- Documented honest finding: regularization improved training stability but did not fix class imbalance both models still failed to detect minority class
+- Explained inverted dropout scaling (1/(1-p)) and BatchNorm's learnable γ/β parameters mathematically
+- **Files:** `Week4/deep_learning_baseline.ipynb`, `Week4/baseline_vs_regularized_loss.png`

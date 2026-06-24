@@ -57,3 +57,30 @@ jupyter notebook deep_learning_baseline.ipynb
 |------|-------------|
 | `train_val_loss.png` | Training vs validation loss curve over 25 epochs |
 | `mlp_minibatch_model.pth` | Saved model weights |
+
+---
+
+## Day 3: Neural Network Regularization BatchNorm, Dropout & Ablation Study
+
+### What Was Built
+- New RegularizedMLP class: Linear → BatchNorm1d → ReLU → Dropout(p=0.3) → Linear
+- Trained baseline MLP and RegularizedMLP side-by-side for 30 epochs, identical seeds/optimizer/data
+- Generated 2×1 subplot comparing loss curves
+
+### Results
+| Metric | Baseline | Regularized |
+|--------|----------|--------------|
+| Final Val Loss | 0.3882 | 0.3855 |
+| Train/Val Gap (avg, last 10 epochs) | -0.0164 | -0.0320 |
+| Test Accuracy | 0.8300 | 0.8370 |
+| Class 1 Recall | 0.02 | 0.00 |
+
+### Key Finding
+Regularization produced a visibly flatter, more stable validation curve (textbook BatchNorm/Dropout effect) but did NOT fix the underlying class imbalance,
+ both models remain functionally unable to detect loan defaulters. This confirms regularization and class-imbalance handling (SMOTE) are separate problems requiring separate solutions.
+
+### Files
+| File | Description |
+|------|-------------|
+| `baseline_vs_regularized_loss.png` | 2×1 subplot comparison |
+| `baseline_mlp_final.pth`, `regularized_mlp_final.pth` | Saved model weights |
