@@ -1,0 +1,1001 @@
+Review_ID,Customer_Review,Cleaned_Review,Predicted_Sentiment,Confidence_Score
+1,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+2,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+3,This product is AMAZING!!! Best purchase I've made this year 😍😍 ngl,This product is AMAZING!!! Best purchase I've made this year ngl,Positive,0.9999
+4,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+5,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+6,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+7,"<p>Average product, met basic expectations.</p> ","Average product, met basic expectations.",Positive,0.9831
+8,<p>Absolutely love it! Works perfectly and looks great.</p> ,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+9,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+10,This product is AMAZING!!! Best purchase I've made this year 😍😍 lol,This product is AMAZING!!! Best purchase I've made this year lol,Positive,0.9998
+11,<p>Very disappointed. Quality is poor and it stopped working.</p> fr fr,Very disappointed. Quality is poor and it stopped working. fr fr,Negative,0.9998
+12,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+13,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+14,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+15,"Terrible product, broke after 2 days!!! waste of money 😡 ","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+16,"Awful experience, customer service was useless too 👎 ","Awful experience, customer service was useless too",Negative,0.9998
+17,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+18,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+19,This exceeded my expectations!! Super happy with it. ,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+20,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+21,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+22,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+23,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+24,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+25,"Extremely unhappy with this product, returning it ASAP fr fr","Extremely unhappy with this product, returning it ASAP fr fr",Negative,0.9994
+26,"Standard quality, does what it says on the box","Standard quality, does what it says on the box",Positive,0.9946
+27,Nothing to complain about but nothing impressive either   ,Nothing to complain about but nothing impressive either,Negative,0.9625
+28,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+29,"great quality, fast shipping, highly recommend!! fr fr","great quality, fast shipping, highly recommend!! fr fr",Positive,0.9998
+30,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+31,"Wow this is fantastic, better than I expected    lol","Wow this is fantastic, better than I expected lol",Positive,0.9999
+32,"<p>Average product, met basic expectations.</p>","Average product, met basic expectations.",Positive,0.9831
+33,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+34,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+35,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+36,"Does not work, false advertising, very upset customer ngl","Does not work, false advertising, very upset customer ngl",Negative,0.9997
+37,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+38,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+39,"Extremely unhappy with this product, returning it ASAP lol","Extremely unhappy with this product, returning it ASAP lol",Negative,0.9994
+40,"<span>Best purchase ever, totally worth the price</span> tbh","Best purchase ever, totally worth the price tbh",Positive,0.9993
+41,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+42,<p>Absolutely love it! Works perfectly and looks great.</p> tbh,Absolutely love it! Works perfectly and looks great. tbh,Positive,0.9999
+43,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+44,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+45,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+46,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+47,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+48,"Worst customer service I've ever dealt with, avoid this seller","Worst customer service I've ever dealt with, avoid this seller",Negative,0.9998
+49,"Poor quality control, item was broken on arrival","Poor quality control, item was broken on arrival",Negative,0.9997
+50,"Works exactly as advertised, no complaints at all!!! ngl","Works exactly as advertised, no complaints at all!!! ngl",Positive,0.7098
+51,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+52,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+53,"<p>Average product, met basic expectations.</p> lol","Average product, met basic expectations. lol",Neutral,0.6153
+54,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+55,I'm so happy with this purchase 🎉 exceeded my expectations ngl,I'm so happy with this purchase exceeded my expectations ngl,Positive,0.9999
+56,<p>Absolutely love it! Works perfectly and looks great.</p> fr fr,Absolutely love it! Works perfectly and looks great. fr fr,Positive,0.9999
+57,"<p>Average product, met basic expectations.</p>","Average product, met basic expectations.",Positive,0.9831
+58,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+59,"<div>It's an okay product, similar to others I've used.</div> tbh","It's an okay product, similar to others I've used. tbh",Positive,0.9996
+60,Nothing to complain about but nothing impressive either   ,Nothing to complain about but nothing impressive either,Negative,0.9625
+61,"decent for the price, not amazing but not bad either","decent for the price, not amazing but not bad either",Positive,0.9969
+62,"Wow this is fantastic, better than I expected    ngl","Wow this is fantastic, better than I expected ngl",Positive,0.9999
+63,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+64,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+65,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+66,"Five stars, no question. Will be buying more from this brand lol","Five stars, no question. Will be buying more from this brand lol",Negative,0.9348
+67,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+68,"decent for the price, not amazing but not bad either","decent for the price, not amazing but not bad either",Positive,0.9969
+69,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+70,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+71,"Works fine I guess, no strong feelings either way fr fr","Works fine I guess, no strong feelings either way fr fr",Negative,0.8969
+72,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+73,"Really good value for money, will buy again 👍 ngl","Really good value for money, will buy again ngl",Positive,0.9993
+74,"Poor quality control, item was broken on arrival","Poor quality control, item was broken on arrival",Negative,0.9997
+75,"Perfect fit and amazing material, 10/10 would recommend ","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+76,"Works fine I guess, no strong feelings either way ngl","Works fine I guess, no strong feelings either way ngl",Neutral,0.638
+77,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+78,"It's okay, does the job but nothing special. fr fr","It's okay, does the job but nothing special. fr fr",Negative,0.9921
+79,"Does not work, false advertising, very upset customer","Does not work, false advertising, very upset customer",Negative,0.9994
+80,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+81,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+82,this is garbage honestly   never buying again,this is garbage honestly never buying again,Negative,0.9979
+83,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+84,"<div>Excellent product, exactly as described. 5 stars!</div> lol","Excellent product, exactly as described. 5 stars! lol",Positive,0.9998
+85,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+86,"Poor quality control, item was broken on arrival ","Poor quality control, item was broken on arrival",Negative,0.9997
+87,"Poor quality control, item was broken on arrival ngl","Poor quality control, item was broken on arrival ngl",Negative,0.9997
+88,"Awful experience, customer service was useless too 👎 tbh","Awful experience, customer service was useless too tbh",Negative,0.9998
+89,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+90,"It's fine, gets the job done without any issues fr fr","It's fine, gets the job done without any issues fr fr",Positive,0.9997
+91,"<div>Excellent product, exactly as described. 5 stars!</div> fr fr","Excellent product, exactly as described. 5 stars! fr fr",Positive,0.9998
+92,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+93,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+94,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+95,"Horrible quality, fell apart within a week 😠😠 ngl","Horrible quality, fell apart within a week ngl",Negative,0.9998
+96,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+97,"Pretty average overall, might consider other options next time","Pretty average overall, might consider other options next time",Negative,0.9929
+98,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+99,"Poor quality control, item was broken on arrival","Poor quality control, item was broken on arrival",Negative,0.9997
+100,"Pretty average overall, might consider other options next time","Pretty average overall, might consider other options next time",Negative,0.9929
+101,"Complete waste of money, doesn't work as described at all ngl","Complete waste of money, doesn't work as described at all ngl",Negative,0.9998
+102,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+103,"do not buy this, worst purchase ever ","do not buy this, worst purchase ever",Negative,0.9992
+104,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+105,<p>Absolutely love it! Works perfectly and looks great.</p> lol,Absolutely love it! Works perfectly and looks great. lol,Positive,0.9999
+106,"Does not work, false advertising, very upset customer","Does not work, false advertising, very upset customer",Negative,0.9994
+107,<p>Very disappointed. Quality is poor and it stopped working.</p> fr fr,Very disappointed. Quality is poor and it stopped working. fr fr,Negative,0.9998
+108,"Defective item, had to return it immediately fr fr","Defective item, had to return it immediately fr fr",Negative,0.9997
+109,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+110,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+111,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+112,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+113,<p>Absolutely love it! Works perfectly and looks great.</p> tbh,Absolutely love it! Works perfectly and looks great. tbh,Positive,0.9999
+114,"Standard quality, does what it says on the box","Standard quality, does what it says on the box",Positive,0.9946
+115,"Pretty average overall, might consider other options next time","Pretty average overall, might consider other options next time",Negative,0.9929
+116,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+117,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+118,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+119,"Love love LOVE this product, can't recommend enough lol","Love love LOVE this product, can't recommend enough lol",Positive,0.9978
+120,"Defective item, had to return it immediately lol","Defective item, had to return it immediately lol",Negative,0.9997
+121,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+122,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+123,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+124,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+125,Nothing to complain about but nothing impressive either   ,Nothing to complain about but nothing impressive either,Negative,0.9625
+126,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+127,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+128,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+129,"decent for the price, not amazing but not bad either","decent for the price, not amazing but not bad either",Positive,0.9969
+130,"I regret this purchase so much, total disappointment lol","I regret this purchase so much, total disappointment lol",Negative,0.9997
+131,"<span>Cheaply made, not worth the price at all</span>","Cheaply made, not worth the price at all",Negative,0.9998
+132,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+133,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+134,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+135,Super impressed with the build quality and design 😊 fr fr,Super impressed with the build quality and design fr fr,Positive,0.9997
+136,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+137,"<p>Average product, met basic expectations.</p>","Average product, met basic expectations.",Positive,0.9831
+138,"Does not work, false advertising, very upset customer","Does not work, false advertising, very upset customer",Negative,0.9994
+139,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+140,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+141,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+142,"Outstanding quality, arrived quickly, very satisfied customer here fr fr","Outstanding quality, arrived quickly, very satisfied customer here fr fr",Positive,0.9996
+143,"do not buy this, worst purchase ever ngl","do not buy this, worst purchase ever ngl",Negative,0.9994
+144,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+145,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+146,"Love love LOVE this product, can't recommend enough ","Love love LOVE this product, can't recommend enough",Positive,0.9984
+147,"It's okay, does the job but nothing special.","It's okay, does the job but nothing special.",Negative,0.9914
+148,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+149,this is garbage honestly   never buying again tbh,this is garbage honestly never buying again tbh,Negative,0.9982
+150,"Terrible product, broke after 2 days!!! waste of money 😡 lol","Terrible product, broke after 2 days!!! waste of money lol",Negative,0.9997
+151,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+152,this is garbage honestly   never buying again,this is garbage honestly never buying again,Negative,0.9979
+153,"Poor quality control, item was broken on arrival","Poor quality control, item was broken on arrival",Negative,0.9997
+154,"Does not work, false advertising, very upset customer","Does not work, false advertising, very upset customer",Negative,0.9994
+155,"Extremely unhappy with this product, returning it ASAP ngl","Extremely unhappy with this product, returning it ASAP ngl",Negative,0.9996
+156,I'm so happy with this purchase 🎉 exceeded my expectations lol,I'm so happy with this purchase exceeded my expectations lol,Positive,0.9998
+157,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+158,"Pretty average overall, might consider other options next time","Pretty average overall, might consider other options next time",Negative,0.9929
+159,<p>Absolutely love it! Works perfectly and looks great.</p> lol,Absolutely love it! Works perfectly and looks great. lol,Positive,0.9999
+160,"<span>Best purchase ever, totally worth the price</span> tbh","Best purchase ever, totally worth the price tbh",Positive,0.9993
+161,"Does not work, false advertising, very upset customer","Does not work, false advertising, very upset customer",Negative,0.9994
+162,<p>Very disappointed. Quality is poor and it stopped working.</p> ,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+163,"decent for the price, not amazing but not bad either","decent for the price, not amazing but not bad either",Positive,0.9969
+164,"do not buy this, worst purchase ever","do not buy this, worst purchase ever",Negative,0.9992
+165,"Perfect fit and amazing material, 10/10 would recommend tbh","Perfect fit and amazing material, 10/10 would recommend tbh",Positive,0.9998
+166,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+167,"great quality, fast shipping, highly recommend!! ngl","great quality, fast shipping, highly recommend!! ngl",Positive,0.9998
+168,"Love love LOVE this product, can't recommend enough ","Love love LOVE this product, can't recommend enough",Positive,0.9984
+169,"Standard quality, does what it says on the box","Standard quality, does what it says on the box",Positive,0.9946
+170,"Awful experience, customer service was useless too 👎 ","Awful experience, customer service was useless too",Negative,0.9998
+171,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+172,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+173,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+174,"Awful experience, customer service was useless too 👎 ngl","Awful experience, customer service was useless too ngl",Negative,0.9998
+175,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+176,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+177,"Defective item, had to return it immediately ngl","Defective item, had to return it immediately ngl",Negative,0.9997
+178,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+179,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+180,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+181,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+182,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+183,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+184,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+185,<p>Absolutely love it! Works perfectly and looks great.</p> ngl,Absolutely love it! Works perfectly and looks great. ngl,Positive,0.9999
+186,This product is AMAZING!!! Best purchase I've made this year 😍😍 ,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+187,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+188,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+189,"Pretty average overall, might consider other options next time fr fr","Pretty average overall, might consider other options next time fr fr",Negative,0.9932
+190,"It's okay, does the job but nothing special. lol","It's okay, does the job but nothing special. lol",Negative,0.9905
+191,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+192,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+193,"Terrible product, broke after 2 days!!! waste of money 😡","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+194,I'm so happy with this purchase 🎉 exceeded my expectations lol,I'm so happy with this purchase exceeded my expectations lol,Positive,0.9998
+195,"Poor quality control, item was broken on arrival","Poor quality control, item was broken on arrival",Negative,0.9997
+196,"It's okay, does the job but nothing special.","It's okay, does the job but nothing special.",Negative,0.9914
+197,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+198,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+199,"<p>Average product, met basic expectations.</p>","Average product, met basic expectations.",Positive,0.9831
+200,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+201,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+202,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+203,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+204,This exceeded my expectations!! Super happy with it. fr fr,This exceeded my expectations!! Super happy with it. fr fr,Positive,0.9999
+205,"Mediocre experience, neither great nor terrible fr fr","Mediocre experience, neither great nor terrible fr fr",Negative,0.9975
+206,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+207,"Pretty average overall, might consider other options next time","Pretty average overall, might consider other options next time",Negative,0.9929
+208,"Worst customer service I've ever dealt with, avoid this seller","Worst customer service I've ever dealt with, avoid this seller",Negative,0.9998
+209,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+210,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+211,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+212,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+213,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+214,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+215,I'm so happy with this purchase 🎉 exceeded my expectations lol,I'm so happy with this purchase exceeded my expectations lol,Positive,0.9998
+216,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+217,"Defective item, had to return it immediately tbh","Defective item, had to return it immediately tbh",Negative,0.9997
+218,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+219,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+220,"Complete waste of money, doesn't work as described at all tbh","Complete waste of money, doesn't work as described at all tbh",Negative,0.9998
+221,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+222,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+223,"It's okay, does the job but nothing special.","It's okay, does the job but nothing special.",Negative,0.9914
+224,"<p>Average product, met basic expectations.</p>","Average product, met basic expectations.",Positive,0.9831
+225,This product is AMAZING!!! Best purchase I've made this year 😍😍 tbh,This product is AMAZING!!! Best purchase I've made this year tbh,Positive,0.9998
+226,"<span>Cheaply made, not worth the price at all</span>","Cheaply made, not worth the price at all",Negative,0.9998
+227,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+228,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+229,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+230,<p>Absolutely love it! Works perfectly and looks great.</p> fr fr,Absolutely love it! Works perfectly and looks great. fr fr,Positive,0.9999
+231,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+232,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+233,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+234,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+235,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+236,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+237,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+238,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+239,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+240,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+241,"Does not work, false advertising, very upset customer","Does not work, false advertising, very upset customer",Negative,0.9994
+242,"Poor quality control, item was broken on arrival","Poor quality control, item was broken on arrival",Negative,0.9997
+243,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+244,This exceeded my expectations!! Super happy with it. ,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+245,"<p>Average product, met basic expectations.</p>","Average product, met basic expectations.",Positive,0.9831
+246,"Terrible product, broke after 2 days!!! waste of money 😡","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+247,"Perfect fit and amazing material, 10/10 would recommend ","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+248,"Does not work, false advertising, very upset customer","Does not work, false advertising, very upset customer",Negative,0.9994
+249,"Terrible product, broke after 2 days!!! waste of money 😡 lol","Terrible product, broke after 2 days!!! waste of money lol",Negative,0.9997
+250,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+251,"do not buy this, worst purchase ever","do not buy this, worst purchase ever",Negative,0.9992
+252,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+253,"I regret this purchase so much, total disappointment tbh","I regret this purchase so much, total disappointment tbh",Negative,0.9997
+254,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+255,"Standard quality, does what it says on the box","Standard quality, does what it says on the box",Positive,0.9946
+256,"Poor quality control, item was broken on arrival","Poor quality control, item was broken on arrival",Negative,0.9997
+257,"It's okay, does the job but nothing special.","It's okay, does the job but nothing special.",Negative,0.9914
+258,"great quality, fast shipping, highly recommend!! tbh","great quality, fast shipping, highly recommend!! tbh",Positive,0.9998
+259,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+260,"Standard quality, does what it says on the box ngl","Standard quality, does what it says on the box ngl",Positive,0.9902
+261,"Poor quality control, item was broken on arrival","Poor quality control, item was broken on arrival",Negative,0.9997
+262,"It's fine, gets the job done without any issues","It's fine, gets the job done without any issues",Positive,0.9998
+263,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+264,"Really good value for money, will buy again 👍 ","Really good value for money, will buy again",Positive,0.9997
+265,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+266,"It's fine, gets the job done without any issues","It's fine, gets the job done without any issues",Positive,0.9998
+267,"decent for the price, not amazing but not bad either","decent for the price, not amazing but not bad either",Positive,0.9969
+268,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+269,"<div>It's an okay product, similar to others I've used.</div> fr fr","It's an okay product, similar to others I've used. fr fr",Positive,0.9996
+270,"Terrible product, broke after 2 days!!! waste of money 😡 ","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+271,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+272,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+273,"<span>Cheaply made, not worth the price at all</span>","Cheaply made, not worth the price at all",Negative,0.9998
+274,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+275,"Terrible product, broke after 2 days!!! waste of money 😡","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+276,"Terrible product, broke after 2 days!!! waste of money 😡","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+277,"Worst customer service I've ever dealt with, avoid this seller","Worst customer service I've ever dealt with, avoid this seller",Negative,0.9998
+278,"It's fine, gets the job done without any issues","It's fine, gets the job done without any issues",Positive,0.9998
+279,"Love love LOVE this product, can't recommend enough ","Love love LOVE this product, can't recommend enough",Positive,0.9984
+280,"do not buy this, worst purchase ever","do not buy this, worst purchase ever",Negative,0.9992
+281,"Terrible product, broke after 2 days!!! waste of money 😡 ","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+282,<p>Absolutely love it! Works perfectly and looks great.</p> fr fr,Absolutely love it! Works perfectly and looks great. fr fr,Positive,0.9999
+283,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+284,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+285,"<p>Average product, met basic expectations.</p>","Average product, met basic expectations.",Positive,0.9831
+286,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+287,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+288,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+289,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+290,<p>Very disappointed. Quality is poor and it stopped working.</p> ,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+291,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+292,"Worst customer service I've ever dealt with, avoid this seller","Worst customer service I've ever dealt with, avoid this seller",Negative,0.9998
+293,"Worst customer service I've ever dealt with, avoid this seller lol","Worst customer service I've ever dealt with, avoid this seller lol",Negative,0.9998
+294,"Outstanding quality, arrived quickly, very satisfied customer here lol","Outstanding quality, arrived quickly, very satisfied customer here lol",Positive,0.9996
+295,"Really good value for money, will buy again 👍 ","Really good value for money, will buy again",Positive,0.9997
+296,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+297,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+298,Nothing to complain about but nothing impressive either   ,Nothing to complain about but nothing impressive either,Negative,0.9625
+299,"Poor quality control, item was broken on arrival ngl","Poor quality control, item was broken on arrival ngl",Negative,0.9997
+300,I'm so happy with this purchase 🎉 exceeded my expectations ngl,I'm so happy with this purchase exceeded my expectations ngl,Positive,0.9999
+301,I'm so happy with this purchase 🎉 exceeded my expectations ngl,I'm so happy with this purchase exceeded my expectations ngl,Positive,0.9999
+302,"Really good value for money, will buy again 👍 fr fr","Really good value for money, will buy again fr fr",Positive,0.9994
+303,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+304,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+305,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+306,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+307,this is garbage honestly   never buying again lol,this is garbage honestly never buying again lol,Negative,0.998
+308,"It's okay, does the job but nothing special.","It's okay, does the job but nothing special.",Negative,0.9914
+309,This exceeded my expectations!! Super happy with it. ,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+310,"Pretty average overall, might consider other options next time","Pretty average overall, might consider other options next time",Negative,0.9929
+311,<p>Absolutely love it! Works perfectly and looks great.</p> lol,Absolutely love it! Works perfectly and looks great. lol,Positive,0.9999
+312,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+313,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+314,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+315,"<div>Excellent product, exactly as described. 5 stars!</div> fr fr","Excellent product, exactly as described. 5 stars! fr fr",Positive,0.9998
+316,"Poor quality control, item was broken on arrival","Poor quality control, item was broken on arrival",Negative,0.9997
+317,this is garbage honestly   never buying again,this is garbage honestly never buying again,Negative,0.9979
+318,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+319,<p>Very disappointed. Quality is poor and it stopped working.</p> fr fr,Very disappointed. Quality is poor and it stopped working. fr fr,Negative,0.9998
+320,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+321,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+322,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+323,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+324,"Does not work, false advertising, very upset customer","Does not work, false advertising, very upset customer",Negative,0.9994
+325,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+326,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+327,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+328,"Outstanding quality, arrived quickly, very satisfied customer here ","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+329,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+330,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+331,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+332,"Horrible quality, fell apart within a week 😠😠 ngl","Horrible quality, fell apart within a week ngl",Negative,0.9998
+333,"Five stars, no question. Will be buying more from this brand lol","Five stars, no question. Will be buying more from this brand lol",Negative,0.9348
+334,"Five stars, no question. Will be buying more from this brand fr fr","Five stars, no question. Will be buying more from this brand fr fr",Negative,0.8206
+335,"<div>Excellent product, exactly as described. 5 stars!</div> lol","Excellent product, exactly as described. 5 stars! lol",Positive,0.9998
+336,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+337,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+338,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+339,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+340,"decent for the price, not amazing but not bad either","decent for the price, not amazing but not bad either",Positive,0.9969
+341,"<div>It's an okay product, similar to others I've used.</div> ngl","It's an okay product, similar to others I've used. ngl",Positive,0.9997
+342,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+343,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+344,"<span>Cheaply made, not worth the price at all</span> ngl","Cheaply made, not worth the price at all ngl",Negative,0.9998
+345,"Awful experience, customer service was useless too 👎 ngl","Awful experience, customer service was useless too ngl",Negative,0.9998
+346,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+347,"I regret this purchase so much, total disappointment ngl","I regret this purchase so much, total disappointment ngl",Negative,0.9998
+348,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+349,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+350,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+351,"Terrible product, broke after 2 days!!! waste of money 😡 lol","Terrible product, broke after 2 days!!! waste of money lol",Negative,0.9997
+352,"Perfect fit and amazing material, 10/10 would recommend tbh","Perfect fit and amazing material, 10/10 would recommend tbh",Positive,0.9998
+353,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+354,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+355,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+356,"Terrible product, broke after 2 days!!! waste of money 😡","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+357,this is garbage honestly   never buying again,this is garbage honestly never buying again,Negative,0.9979
+358,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+359,"decent for the price, not amazing but not bad either","decent for the price, not amazing but not bad either",Positive,0.9969
+360,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+361,"<div>It's an okay product, similar to others I've used.</div> fr fr","It's an okay product, similar to others I've used. fr fr",Positive,0.9996
+362,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+363,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+364,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+365,"<span>Best purchase ever, totally worth the price</span> tbh","Best purchase ever, totally worth the price tbh",Positive,0.9993
+366,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+367,"Terrible product, broke after 2 days!!! waste of money 😡","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+368,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+369,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+370,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+371,"<span>Cheaply made, not worth the price at all</span>","Cheaply made, not worth the price at all",Negative,0.9998
+372,"Poor quality control, item was broken on arrival","Poor quality control, item was broken on arrival",Negative,0.9997
+373,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+374,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+375,"It's okay, does the job but nothing special.","It's okay, does the job but nothing special.",Negative,0.9914
+376,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+377,this is garbage honestly   never buying again,this is garbage honestly never buying again,Negative,0.9979
+378,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+379,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+380,"decent for the price, not amazing but not bad either","decent for the price, not amazing but not bad either",Positive,0.9969
+381,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+382,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+383,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+384,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+385,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+386,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+387,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+388,"Extremely unhappy with this product, returning it ASAP lol","Extremely unhappy with this product, returning it ASAP lol",Negative,0.9994
+389,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+390,this is garbage honestly   never buying again,this is garbage honestly never buying again,Negative,0.9979
+391,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+392,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+393,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+394,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+395,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+396,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+397,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+398,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+399,"Standard quality, does what it says on the box","Standard quality, does what it says on the box",Positive,0.9946
+400,"Worst customer service I've ever dealt with, avoid this seller","Worst customer service I've ever dealt with, avoid this seller",Negative,0.9998
+401,"<span>Cheaply made, not worth the price at all</span> fr fr","Cheaply made, not worth the price at all fr fr",Negative,0.9998
+402,"Poor quality control, item was broken on arrival","Poor quality control, item was broken on arrival",Negative,0.9997
+403,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+404,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+405,"Does not work, false advertising, very upset customer fr fr","Does not work, false advertising, very upset customer fr fr",Negative,0.9996
+406,"decent for the price, not amazing but not bad either","decent for the price, not amazing but not bad either",Positive,0.9969
+407,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+408,"Standard quality, does what it says on the box","Standard quality, does what it says on the box",Positive,0.9946
+409,"Terrible product, broke after 2 days!!! waste of money 😡","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+410,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+411,Nothing to complain about but nothing impressive either    tbh,Nothing to complain about but nothing impressive either tbh,Negative,0.982
+412,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+413,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+414,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+415,"<span>Cheaply made, not worth the price at all</span>","Cheaply made, not worth the price at all",Negative,0.9998
+416,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+417,I'm so happy with this purchase 🎉 exceeded my expectations ngl,I'm so happy with this purchase exceeded my expectations ngl,Positive,0.9999
+418,"do not buy this, worst purchase ever","do not buy this, worst purchase ever",Negative,0.9992
+419,"<p>Average product, met basic expectations.</p>","Average product, met basic expectations.",Positive,0.9831
+420,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+421,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+422,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+423,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+424,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+425,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+426,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+427,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+428,"Five stars, no question. Will be buying more from this brand tbh","Five stars, no question. Will be buying more from this brand tbh",Negative,0.9584
+429,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+430,<div>Product arrived damaged and seller refused refund.</div> fr fr,Product arrived damaged and seller refused refund. fr fr,Negative,0.9997
+431,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+432,"Terrible product, broke after 2 days!!! waste of money 😡","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+433,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+434,I'm so happy with this purchase 🎉 exceeded my expectations tbh,I'm so happy with this purchase exceeded my expectations tbh,Positive,0.9998
+435,Nothing to complain about but nothing impressive either   ,Nothing to complain about but nothing impressive either,Negative,0.9625
+436,"<div>Excellent product, exactly as described. 5 stars!</div> lol","Excellent product, exactly as described. 5 stars! lol",Positive,0.9998
+437,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+438,"<div>Excellent product, exactly as described. 5 stars!</div> ngl","Excellent product, exactly as described. 5 stars! ngl",Positive,0.9999
+439,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+440,"Love love LOVE this product, can't recommend enough tbh","Love love LOVE this product, can't recommend enough tbh",Positive,0.9955
+441,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+442,"Works exactly as advertised, no complaints at all!!! ","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+443,this is garbage honestly   never buying again lol,this is garbage honestly never buying again lol,Negative,0.998
+444,<p>Very disappointed. Quality is poor and it stopped working.</p> ngl,Very disappointed. Quality is poor and it stopped working. ngl,Negative,0.9998
+445,"great quality, fast shipping, highly recommend!! ","great quality, fast shipping, highly recommend!!",Positive,0.9999
+446,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+447,"It's okay, does the job but nothing special.","It's okay, does the job but nothing special.",Negative,0.9914
+448,<p>Very disappointed. Quality is poor and it stopped working.</p> ,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+449,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+450,"Wow this is fantastic, better than I expected    ngl","Wow this is fantastic, better than I expected ngl",Positive,0.9999
+451,"Really good value for money, will buy again 👍 ","Really good value for money, will buy again",Positive,0.9997
+452,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+453,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+454,"Standard quality, does what it says on the box","Standard quality, does what it says on the box",Positive,0.9946
+455,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+456,"Worst customer service I've ever dealt with, avoid this seller fr fr","Worst customer service I've ever dealt with, avoid this seller fr fr",Negative,0.9998
+457,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+458,"Terrible product, broke after 2 days!!! waste of money 😡","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+459,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+460,"Complete waste of money, doesn't work as described at all lol","Complete waste of money, doesn't work as described at all lol",Negative,0.9998
+461,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+462,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+463,"Perfect fit and amazing material, 10/10 would recommend fr fr","Perfect fit and amazing material, 10/10 would recommend fr fr",Positive,0.9998
+464,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+465,"Complete waste of money, doesn't work as described at all lol","Complete waste of money, doesn't work as described at all lol",Negative,0.9998
+466,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+467,Nothing to complain about but nothing impressive either   ,Nothing to complain about but nothing impressive either,Negative,0.9625
+468,"Outstanding quality, arrived quickly, very satisfied customer here ngl","Outstanding quality, arrived quickly, very satisfied customer here ngl",Positive,0.9996
+469,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+470,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+471,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+472,"<span>Cheaply made, not worth the price at all</span>","Cheaply made, not worth the price at all",Negative,0.9998
+473,"Five stars, no question. Will be buying more from this brand ngl","Five stars, no question. Will be buying more from this brand ngl",Negative,0.9188
+474,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+475,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+476,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+477,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+478,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+479,"Complete waste of money, doesn't work as described at all ngl","Complete waste of money, doesn't work as described at all ngl",Negative,0.9998
+480,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+481,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+482,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+483,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+484,"Defective item, had to return it immediately tbh","Defective item, had to return it immediately tbh",Negative,0.9997
+485,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+486,"<span>Cheaply made, not worth the price at all</span>","Cheaply made, not worth the price at all",Negative,0.9998
+487,"Poor quality control, item was broken on arrival fr fr","Poor quality control, item was broken on arrival fr fr",Negative,0.9997
+488,"Outstanding quality, arrived quickly, very satisfied customer here ","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+489,<div>Product arrived damaged and seller refused refund.</div> tbh,Product arrived damaged and seller refused refund. tbh,Negative,0.9997
+490,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+491,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+492,This product is AMAZING!!! Best purchase I've made this year 😍😍 ngl,This product is AMAZING!!! Best purchase I've made this year ngl,Positive,0.9999
+493,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+494,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+495,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+496,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+497,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+498,"Outstanding quality, arrived quickly, very satisfied customer here ngl","Outstanding quality, arrived quickly, very satisfied customer here ngl",Positive,0.9996
+499,"It's fine, gets the job done without any issues tbh","It's fine, gets the job done without any issues tbh",Positive,0.9997
+500,"It's fine, gets the job done without any issues","It's fine, gets the job done without any issues",Positive,0.9998
+501,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+502,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+503,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+504,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+505,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+506,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+507,"decent for the price, not amazing but not bad either lol","decent for the price, not amazing but not bad either lol",Positive,0.9941
+508,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+509,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+510,"Pretty average overall, might consider other options next time ngl","Pretty average overall, might consider other options next time ngl",Negative,0.9948
+511,<p>Very disappointed. Quality is poor and it stopped working.</p> fr fr,Very disappointed. Quality is poor and it stopped working. fr fr,Negative,0.9998
+512,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+513,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+514,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+515,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+516,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+517,This product is AMAZING!!! Best purchase I've made this year 😍😍 fr fr,This product is AMAZING!!! Best purchase I've made this year fr fr,Positive,0.9999
+518,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+519,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+520,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+521,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+522,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+523,"It's fine, gets the job done without any issues","It's fine, gets the job done without any issues",Positive,0.9998
+524,"Really good value for money, will buy again 👍 ","Really good value for money, will buy again",Positive,0.9997
+525,"Works fine I guess, no strong feelings either way tbh","Works fine I guess, no strong feelings either way tbh",Neutral,0.5961
+526,"It's fine, gets the job done without any issues","It's fine, gets the job done without any issues",Positive,0.9998
+527,"Standard quality, does what it says on the box","Standard quality, does what it says on the box",Positive,0.9946
+528,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+529,"do not buy this, worst purchase ever","do not buy this, worst purchase ever",Negative,0.9992
+530,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+531,"It's okay, does the job but nothing special.","It's okay, does the job but nothing special.",Negative,0.9914
+532,"Poor quality control, item was broken on arrival","Poor quality control, item was broken on arrival",Negative,0.9997
+533,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+534,"Works exactly as advertised, no complaints at all!!! lol","Works exactly as advertised, no complaints at all!!! lol",Positive,0.8014
+535,Super impressed with the build quality and design 😊 tbh,Super impressed with the build quality and design tbh,Positive,0.9994
+536,I'm so happy with this purchase 🎉 exceeded my expectations fr fr,I'm so happy with this purchase exceeded my expectations fr fr,Positive,0.9999
+537,Super impressed with the build quality and design 😊 ,Super impressed with the build quality and design,Positive,0.9998
+538,"It's fine, gets the job done without any issues","It's fine, gets the job done without any issues",Positive,0.9998
+539,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+540,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+541,"Awful experience, customer service was useless too 👎 lol","Awful experience, customer service was useless too lol",Negative,0.9998
+542,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+543,"decent for the price, not amazing but not bad either","decent for the price, not amazing but not bad either",Positive,0.9969
+544,"Extremely unhappy with this product, returning it ASAP tbh","Extremely unhappy with this product, returning it ASAP tbh",Negative,0.9997
+545,"Mediocre experience, neither great nor terrible ","Mediocre experience, neither great nor terrible",Negative,0.9962
+546,"Pretty average overall, might consider other options next time","Pretty average overall, might consider other options next time",Negative,0.9929
+547,this is garbage honestly   never buying again,this is garbage honestly never buying again,Negative,0.9979
+548,Super impressed with the build quality and design 😊 tbh,Super impressed with the build quality and design tbh,Positive,0.9994
+549,"Outstanding quality, arrived quickly, very satisfied customer here ","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+550,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+551,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+552,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+553,"It's fine, gets the job done without any issues fr fr","It's fine, gets the job done without any issues fr fr",Positive,0.9997
+554,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+555,"Does not work, false advertising, very upset customer tbh","Does not work, false advertising, very upset customer tbh",Negative,0.9996
+556,"It's fine, gets the job done without any issues ngl","It's fine, gets the job done without any issues ngl",Positive,0.9997
+557,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+558,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+559,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+560,"Perfect fit and amazing material, 10/10 would recommend ngl","Perfect fit and amazing material, 10/10 would recommend ngl",Positive,0.9999
+561,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+562,"It's fine, gets the job done without any issues","It's fine, gets the job done without any issues",Positive,0.9998
+563,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+564,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+565,"<div>Excellent product, exactly as described. 5 stars!</div> tbh","Excellent product, exactly as described. 5 stars! tbh",Positive,0.9998
+566,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+567,"<span>Best purchase ever, totally worth the price</span> ngl","Best purchase ever, totally worth the price ngl",Positive,0.9998
+568,"Awful experience, customer service was useless too 👎 ngl","Awful experience, customer service was useless too ngl",Negative,0.9998
+569,Nothing to complain about but nothing impressive either   ,Nothing to complain about but nothing impressive either,Negative,0.9625
+570,this is garbage honestly   never buying again,this is garbage honestly never buying again,Negative,0.9979
+571,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+572,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+573,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+574,"do not buy this, worst purchase ever","do not buy this, worst purchase ever",Negative,0.9992
+575,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+576,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+577,"<span>Cheaply made, not worth the price at all</span>","Cheaply made, not worth the price at all",Negative,0.9998
+578,"do not buy this, worst purchase ever","do not buy this, worst purchase ever",Negative,0.9992
+579,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+580,"Works fine I guess, no strong feelings either way lol","Works fine I guess, no strong feelings either way lol",Neutral,0.5916
+581,"Standard quality, does what it says on the box tbh","Standard quality, does what it says on the box tbh",Positive,0.8594
+582,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+583,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+584,"It's fine, gets the job done without any issues","It's fine, gets the job done without any issues",Positive,0.9998
+585,"Really good value for money, will buy again 👍 lol","Really good value for money, will buy again lol",Positive,0.9992
+586,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+587,"Does not work, false advertising, very upset customer tbh","Does not work, false advertising, very upset customer tbh",Negative,0.9996
+588,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+589,"Poor quality control, item was broken on arrival ","Poor quality control, item was broken on arrival",Negative,0.9997
+590,"<span>Cheaply made, not worth the price at all</span>","Cheaply made, not worth the price at all",Negative,0.9998
+591,"It's okay, does the job but nothing special.","It's okay, does the job but nothing special.",Negative,0.9914
+592,"Does not work, false advertising, very upset customer","Does not work, false advertising, very upset customer",Negative,0.9994
+593,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+594,"Extremely unhappy with this product, returning it ASAP ","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+595,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+596,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+597,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+598,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+599,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+600,"Extremely unhappy with this product, returning it ASAP tbh","Extremely unhappy with this product, returning it ASAP tbh",Negative,0.9997
+601,"Does not work, false advertising, very upset customer tbh","Does not work, false advertising, very upset customer tbh",Negative,0.9996
+602,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+603,"<span>Cheaply made, not worth the price at all</span>","Cheaply made, not worth the price at all",Negative,0.9998
+604,"<span>Cheaply made, not worth the price at all</span>","Cheaply made, not worth the price at all",Negative,0.9998
+605,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+606,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+607,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+608,"Poor quality control, item was broken on arrival fr fr","Poor quality control, item was broken on arrival fr fr",Negative,0.9997
+609,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+610,"Awful experience, customer service was useless too 👎 ngl","Awful experience, customer service was useless too ngl",Negative,0.9998
+611,"Standard quality, does what it says on the box tbh","Standard quality, does what it says on the box tbh",Positive,0.8594
+612,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+613,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+614,"Wow this is fantastic, better than I expected    tbh","Wow this is fantastic, better than I expected tbh",Positive,0.9999
+615,"decent for the price, not amazing but not bad either","decent for the price, not amazing but not bad either",Positive,0.9969
+616,"It's fine, gets the job done without any issues fr fr","It's fine, gets the job done without any issues fr fr",Positive,0.9997
+617,"Outstanding quality, arrived quickly, very satisfied customer here ","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+618,"Terrible product, broke after 2 days!!! waste of money 😡","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+619,"Standard quality, does what it says on the box","Standard quality, does what it says on the box",Positive,0.9946
+620,"Pretty average overall, might consider other options next time ","Pretty average overall, might consider other options next time",Negative,0.9929
+621,"It's okay, does the job but nothing special.","It's okay, does the job but nothing special.",Negative,0.9914
+622,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+623,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+624,"Really good value for money, will buy again 👍 fr fr","Really good value for money, will buy again fr fr",Positive,0.9994
+625,"It's fine, gets the job done without any issues","It's fine, gets the job done without any issues",Positive,0.9998
+626,"do not buy this, worst purchase ever","do not buy this, worst purchase ever",Negative,0.9992
+627,This product is AMAZING!!! Best purchase I've made this year 😍😍 ngl,This product is AMAZING!!! Best purchase I've made this year ngl,Positive,0.9999
+628,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+629,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+630,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+631,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+632,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+633,"Wow this is fantastic, better than I expected    tbh","Wow this is fantastic, better than I expected tbh",Positive,0.9999
+634,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+635,"Extremely unhappy with this product, returning it ASAP tbh","Extremely unhappy with this product, returning it ASAP tbh",Negative,0.9997
+636,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+637,"Does not work, false advertising, very upset customer lol","Does not work, false advertising, very upset customer lol",Negative,0.9997
+638,"I regret this purchase so much, total disappointment lol","I regret this purchase so much, total disappointment lol",Negative,0.9997
+639,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+640,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+641,"Terrible product, broke after 2 days!!! waste of money 😡","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+642,this is garbage honestly   never buying again fr fr,this is garbage honestly never buying again fr fr,Negative,0.9981
+643,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+644,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+645,Super impressed with the build quality and design 😊 lol,Super impressed with the build quality and design lol,Positive,0.9997
+646,Super impressed with the build quality and design 😊 lol,Super impressed with the build quality and design lol,Positive,0.9997
+647,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+648,"Works fine I guess, no strong feelings either way lol","Works fine I guess, no strong feelings either way lol",Neutral,0.5916
+649,"Outstanding quality, arrived quickly, very satisfied customer here fr fr","Outstanding quality, arrived quickly, very satisfied customer here fr fr",Positive,0.9996
+650,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+651,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+652,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+653,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+654,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+655,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+656,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+657,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+658,"<span>Cheaply made, not worth the price at all</span>","Cheaply made, not worth the price at all",Negative,0.9998
+659,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+660,Super impressed with the build quality and design 😊 ngl,Super impressed with the build quality and design ngl,Positive,0.9997
+661,"great quality, fast shipping, highly recommend!! ","great quality, fast shipping, highly recommend!!",Positive,0.9999
+662,"Pretty average overall, might consider other options next time lol","Pretty average overall, might consider other options next time lol",Negative,0.9915
+663,"decent for the price, not amazing but not bad either","decent for the price, not amazing but not bad either",Positive,0.9969
+664,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+665,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+666,"Worst customer service I've ever dealt with, avoid this seller","Worst customer service I've ever dealt with, avoid this seller",Negative,0.9998
+667,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+668,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+669,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+670,"Perfect fit and amazing material, 10/10 would recommend tbh","Perfect fit and amazing material, 10/10 would recommend tbh",Positive,0.9998
+671,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+672,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+673,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+674,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+675,"Works fine I guess, no strong feelings either way lol","Works fine I guess, no strong feelings either way lol",Neutral,0.5916
+676,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+677,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+678,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+679,"Pretty average overall, might consider other options next time","Pretty average overall, might consider other options next time",Negative,0.9929
+680,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+681,"<p>Average product, met basic expectations.</p> ","Average product, met basic expectations.",Positive,0.9831
+682,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+683,"Terrible product, broke after 2 days!!! waste of money 😡 ngl","Terrible product, broke after 2 days!!! waste of money ngl",Negative,0.9997
+684,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+685,"Really good value for money, will buy again 👍 ngl","Really good value for money, will buy again ngl",Positive,0.9993
+686,"<p>Average product, met basic expectations.</p> ","Average product, met basic expectations.",Positive,0.9831
+687,Nothing to complain about but nothing impressive either   ,Nothing to complain about but nothing impressive either,Negative,0.9625
+688,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+689,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+690,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+691,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+692,"It's fine, gets the job done without any issues lol","It's fine, gets the job done without any issues lol",Positive,0.9997
+693,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+694,this is garbage honestly   never buying again tbh,this is garbage honestly never buying again tbh,Negative,0.9982
+695,"decent for the price, not amazing but not bad either","decent for the price, not amazing but not bad either",Positive,0.9969
+696,"Really good value for money, will buy again 👍 fr fr","Really good value for money, will buy again fr fr",Positive,0.9994
+697,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+698,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+699,"Perfect fit and amazing material, 10/10 would recommend ngl","Perfect fit and amazing material, 10/10 would recommend ngl",Positive,0.9999
+700,"Worst customer service I've ever dealt with, avoid this seller","Worst customer service I've ever dealt with, avoid this seller",Negative,0.9998
+701,Super impressed with the build quality and design 😊 ,Super impressed with the build quality and design,Positive,0.9998
+702,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+703,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+704,"It's fine, gets the job done without any issues","It's fine, gets the job done without any issues",Positive,0.9998
+705,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+706,"Works exactly as advertised, no complaints at all!!! ","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+707,"<div>Excellent product, exactly as described. 5 stars!</div> ngl","Excellent product, exactly as described. 5 stars! ngl",Positive,0.9999
+708,"Does not work, false advertising, very upset customer","Does not work, false advertising, very upset customer",Negative,0.9994
+709,I'm so happy with this purchase 🎉 exceeded my expectations lol,I'm so happy with this purchase exceeded my expectations lol,Positive,0.9998
+710,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+711,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+712,This exceeded my expectations!! Super happy with it. fr fr,This exceeded my expectations!! Super happy with it. fr fr,Positive,0.9999
+713,"It's fine, gets the job done without any issues","It's fine, gets the job done without any issues",Positive,0.9998
+714,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+715,"Worst customer service I've ever dealt with, avoid this seller","Worst customer service I've ever dealt with, avoid this seller",Negative,0.9998
+716,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+717,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+718,"Wow this is fantastic, better than I expected    lol","Wow this is fantastic, better than I expected lol",Positive,0.9999
+719,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+720,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+721,Nothing to complain about but nothing impressive either    fr fr,Nothing to complain about but nothing impressive either fr fr,Negative,0.9764
+722,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+723,"Works fine I guess, no strong feelings either way ngl","Works fine I guess, no strong feelings either way ngl",Neutral,0.638
+724,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+725,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+726,this is garbage honestly   never buying again,this is garbage honestly never buying again,Negative,0.9979
+727,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+728,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+729,"Worst customer service I've ever dealt with, avoid this seller","Worst customer service I've ever dealt with, avoid this seller",Negative,0.9998
+730,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+731,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+732,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+733,"Mediocre experience, neither great nor terrible lol","Mediocre experience, neither great nor terrible lol",Negative,0.9984
+734,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+735,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+736,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+737,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+738,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+739,"Standard quality, does what it says on the box","Standard quality, does what it says on the box",Positive,0.9946
+740,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+741,"Mediocre experience, neither great nor terrible fr fr","Mediocre experience, neither great nor terrible fr fr",Negative,0.9975
+742,"<span>Cheaply made, not worth the price at all</span> tbh","Cheaply made, not worth the price at all tbh",Negative,0.9998
+743,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+744,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+745,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+746,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+747,Super impressed with the build quality and design 😊 lol,Super impressed with the build quality and design lol,Positive,0.9997
+748,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+749,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+750,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+751,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+752,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+753,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+754,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+755,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+756,"Pretty average overall, might consider other options next time","Pretty average overall, might consider other options next time",Negative,0.9929
+757,Nothing to complain about but nothing impressive either    tbh,Nothing to complain about but nothing impressive either tbh,Negative,0.982
+758,"Love love LOVE this product, can't recommend enough ","Love love LOVE this product, can't recommend enough",Positive,0.9984
+759,this is garbage honestly   never buying again,this is garbage honestly never buying again,Negative,0.9979
+760,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+761,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+762,"Love love LOVE this product, can't recommend enough ngl","Love love LOVE this product, can't recommend enough ngl",Positive,0.998
+763,this is garbage honestly   never buying again tbh,this is garbage honestly never buying again tbh,Negative,0.9982
+764,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+765,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+766,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+767,"Awful experience, customer service was useless too 👎 lol","Awful experience, customer service was useless too lol",Negative,0.9998
+768,"<span>Best purchase ever, totally worth the price</span> fr fr","Best purchase ever, totally worth the price fr fr",Positive,0.9997
+769,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+770,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+771,"<span>Cheaply made, not worth the price at all</span> ","Cheaply made, not worth the price at all",Negative,0.9998
+772,"Extremely unhappy with this product, returning it ASAP fr fr","Extremely unhappy with this product, returning it ASAP fr fr",Negative,0.9994
+773,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+774,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+775,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+776,"It's fine, gets the job done without any issues","It's fine, gets the job done without any issues",Positive,0.9998
+777,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+778,"<span>Best purchase ever, totally worth the price</span> ","Best purchase ever, totally worth the price",Positive,0.9999
+779,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+780,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+781,"Outstanding quality, arrived quickly, very satisfied customer here ngl","Outstanding quality, arrived quickly, very satisfied customer here ngl",Positive,0.9996
+782,<p>Very disappointed. Quality is poor and it stopped working.</p> fr fr,Very disappointed. Quality is poor and it stopped working. fr fr,Negative,0.9998
+783,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+784,"Awful experience, customer service was useless too 👎 ngl","Awful experience, customer service was useless too ngl",Negative,0.9998
+785,"do not buy this, worst purchase ever","do not buy this, worst purchase ever",Negative,0.9992
+786,<div>Product arrived damaged and seller refused refund.</div> lol,Product arrived damaged and seller refused refund. lol,Negative,0.9997
+787,"<span>Cheaply made, not worth the price at all</span>","Cheaply made, not worth the price at all",Negative,0.9998
+788,"Love love LOVE this product, can't recommend enough fr fr","Love love LOVE this product, can't recommend enough fr fr",Positive,0.998
+789,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+790,"Terrible product, broke after 2 days!!! waste of money 😡","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+791,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+792,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+793,"<div>It's an okay product, similar to others I've used.</div> fr fr","It's an okay product, similar to others I've used. fr fr",Positive,0.9996
+794,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+795,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+796,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+797,This exceeded my expectations!! Super happy with it. lol,This exceeded my expectations!! Super happy with it. lol,Positive,0.9999
+798,"Does not work, false advertising, very upset customer","Does not work, false advertising, very upset customer",Negative,0.9994
+799,This product is AMAZING!!! Best purchase I've made this year 😍😍 ,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+800,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+801,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+802,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+803,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+804,"Wow this is fantastic, better than I expected   ","Wow this is fantastic, better than I expected",Positive,0.9999
+805,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+806,"It's okay, does the job but nothing special.","It's okay, does the job but nothing special.",Negative,0.9914
+807,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+808,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+809,"It's fine, gets the job done without any issues","It's fine, gets the job done without any issues",Positive,0.9998
+810,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+811,"Does not work, false advertising, very upset customer lol","Does not work, false advertising, very upset customer lol",Negative,0.9997
+812,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+813,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+814,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+815,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+816,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+817,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+818,"It's okay, does the job but nothing special. fr fr","It's okay, does the job but nothing special. fr fr",Negative,0.9921
+819,"great quality, fast shipping, highly recommend!! ","great quality, fast shipping, highly recommend!!",Positive,0.9999
+820,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+821,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+822,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+823,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+824,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+825,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+826,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+827,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+828,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+829,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+830,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+831,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+832,"Mediocre experience, neither great nor terrible","Mediocre experience, neither great nor terrible",Negative,0.9962
+833,"Standard quality, does what it says on the box","Standard quality, does what it says on the box",Positive,0.9946
+834,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+835,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+836,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+837,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+838,"Does not work, false advertising, very upset customer","Does not work, false advertising, very upset customer",Negative,0.9994
+839,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+840,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+841,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+842,"Worst customer service I've ever dealt with, avoid this seller","Worst customer service I've ever dealt with, avoid this seller",Negative,0.9998
+843,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+844,"It's okay, does the job but nothing special.","It's okay, does the job but nothing special.",Negative,0.9914
+845,"Worst customer service I've ever dealt with, avoid this seller","Worst customer service I've ever dealt with, avoid this seller",Negative,0.9998
+846,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+847,<p>Absolutely love it! Works perfectly and looks great.</p> fr fr,Absolutely love it! Works perfectly and looks great. fr fr,Positive,0.9999
+848,"Perfect fit and amazing material, 10/10 would recommend fr fr","Perfect fit and amazing material, 10/10 would recommend fr fr",Positive,0.9998
+849,"<div>Excellent product, exactly as described. 5 stars!</div> lol","Excellent product, exactly as described. 5 stars! lol",Positive,0.9998
+850,"decent for the price, not amazing but not bad either","decent for the price, not amazing but not bad either",Positive,0.9969
+851,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+852,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+853,"Love love LOVE this product, can't recommend enough lol","Love love LOVE this product, can't recommend enough lol",Positive,0.9978
+854,"do not buy this, worst purchase ever lol","do not buy this, worst purchase ever lol",Negative,0.9991
+855,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+856,This exceeded my expectations!! Super happy with it. ,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+857,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+858,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+859,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+860,"Works fine I guess, no strong feelings either way ngl","Works fine I guess, no strong feelings either way ngl",Neutral,0.638
+861,"<span>Best purchase ever, totally worth the price</span> ngl","Best purchase ever, totally worth the price ngl",Positive,0.9998
+862,"<span>Best purchase ever, totally worth the price</span> tbh","Best purchase ever, totally worth the price tbh",Positive,0.9993
+863,<p>Very disappointed. Quality is poor and it stopped working.</p> fr fr,Very disappointed. Quality is poor and it stopped working. fr fr,Negative,0.9998
+864,"Poor quality control, item was broken on arrival","Poor quality control, item was broken on arrival",Negative,0.9997
+865,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+866,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+867,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+868,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+869,"Outstanding quality, arrived quickly, very satisfied customer here fr fr","Outstanding quality, arrived quickly, very satisfied customer here fr fr",Positive,0.9996
+870,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+871,"<p>Average product, met basic expectations.</p>","Average product, met basic expectations.",Positive,0.9831
+872,"Horrible quality, fell apart within a week 😠😠 fr fr","Horrible quality, fell apart within a week fr fr",Negative,0.9998
+873,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+874,"great quality, fast shipping, highly recommend!! ngl","great quality, fast shipping, highly recommend!! ngl",Positive,0.9998
+875,"Does not work, false advertising, very upset customer fr fr","Does not work, false advertising, very upset customer fr fr",Negative,0.9996
+876,<p>Very disappointed. Quality is poor and it stopped working.</p> lol,Very disappointed. Quality is poor and it stopped working. lol,Negative,0.9998
+877,"great quality, fast shipping, highly recommend!! ngl","great quality, fast shipping, highly recommend!! ngl",Positive,0.9998
+878,"Pretty average overall, might consider other options next time","Pretty average overall, might consider other options next time",Negative,0.9929
+879,"Pretty average overall, might consider other options next time","Pretty average overall, might consider other options next time",Negative,0.9929
+880,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+881,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+882,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+883,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+884,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+885,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+886,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+887,"Standard quality, does what it says on the box","Standard quality, does what it says on the box",Positive,0.9946
+888,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+889,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+890,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+891,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+892,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+893,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+894,"Worst customer service I've ever dealt with, avoid this seller","Worst customer service I've ever dealt with, avoid this seller",Negative,0.9998
+895,This product is AMAZING!!! Best purchase I've made this year 😍😍,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+896,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+897,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+898,"<span>Best purchase ever, totally worth the price</span> ngl","Best purchase ever, totally worth the price ngl",Positive,0.9998
+899,"Worst customer service I've ever dealt with, avoid this seller ngl","Worst customer service I've ever dealt with, avoid this seller ngl",Negative,0.9998
+900,This product is AMAZING!!! Best purchase I've made this year 😍😍 lol,This product is AMAZING!!! Best purchase I've made this year lol,Positive,0.9998
+901,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+902,"Perfect fit and amazing material, 10/10 would recommend ","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+903,"Outstanding quality, arrived quickly, very satisfied customer here","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+904,"Terrible product, broke after 2 days!!! waste of money 😡 ngl","Terrible product, broke after 2 days!!! waste of money ngl",Negative,0.9997
+905,"Outstanding quality, arrived quickly, very satisfied customer here lol","Outstanding quality, arrived quickly, very satisfied customer here lol",Positive,0.9996
+906,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+907,Super impressed with the build quality and design 😊 fr fr,Super impressed with the build quality and design fr fr,Positive,0.9997
+908,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+909,"Love love LOVE this product, can't recommend enough","Love love LOVE this product, can't recommend enough",Positive,0.9984
+910,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+911,This exceeded my expectations!! Super happy with it. ngl,This exceeded my expectations!! Super happy with it. ngl,Positive,0.9999
+912,"do not buy this, worst purchase ever","do not buy this, worst purchase ever",Negative,0.9992
+913,"Worst customer service I've ever dealt with, avoid this seller","Worst customer service I've ever dealt with, avoid this seller",Negative,0.9998
+914,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+915,"Defective item, had to return it immediately tbh","Defective item, had to return it immediately tbh",Negative,0.9997
+916,"<p>Average product, met basic expectations.</p>","Average product, met basic expectations.",Positive,0.9831
+917,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+918,Nothing to complain about but nothing impressive either   ,Nothing to complain about but nothing impressive either,Negative,0.9625
+919,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+920,Nothing to complain about but nothing impressive either    ngl,Nothing to complain about but nothing impressive either ngl,Negative,0.9851
+921,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+922,<p>Absolutely love it! Works perfectly and looks great.</p>,Absolutely love it! Works perfectly and looks great.,Positive,0.9999
+923,"decent for the price, not amazing but not bad either ngl","decent for the price, not amazing but not bad either ngl",Positive,0.9963
+924,"Really good value for money, will buy again 👍 tbh","Really good value for money, will buy again tbh",Positive,0.9974
+925,"<div>It's an okay product, similar to others I've used.</div>","It's an okay product, similar to others I've used.",Positive,0.9998
+926,"Perfect fit and amazing material, 10/10 would recommend","Perfect fit and amazing material, 10/10 would recommend",Positive,0.9999
+927,"Standard quality, does what it says on the box","Standard quality, does what it says on the box",Positive,0.9946
+928,"Mediocre experience, neither great nor terrible lol","Mediocre experience, neither great nor terrible lol",Negative,0.9984
+929,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+930,"<p>Average product, met basic expectations.</p>","Average product, met basic expectations.",Positive,0.9831
+931,this is garbage honestly   never buying again,this is garbage honestly never buying again,Negative,0.9979
+932,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+933,Nothing to complain about but nothing impressive either   ,Nothing to complain about but nothing impressive either,Negative,0.9625
+934,<p>Absolutely love it! Works perfectly and looks great.</p> tbh,Absolutely love it! Works perfectly and looks great. tbh,Positive,0.9999
+935,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+936,"Mediocre experience, neither great nor terrible lol","Mediocre experience, neither great nor terrible lol",Negative,0.9984
+937,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+938,"Does not work, false advertising, very upset customer","Does not work, false advertising, very upset customer",Negative,0.9994
+939,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+940,This exceeded my expectations!! Super happy with it.,This exceeded my expectations!! Super happy with it.,Positive,0.9999
+941,"Complete waste of money, doesn't work as described at all","Complete waste of money, doesn't work as described at all",Negative,0.9998
+942,"Terrible product, broke after 2 days!!! waste of money 😡","Terrible product, broke after 2 days!!! waste of money",Negative,0.9998
+943,I'm so happy with this purchase 🎉 exceeded my expectations,I'm so happy with this purchase exceeded my expectations,Positive,0.9999
+944,"Love love LOVE this product, can't recommend enough ngl","Love love LOVE this product, can't recommend enough ngl",Positive,0.998
+945,"Worst customer service I've ever dealt with, avoid this seller","Worst customer service I've ever dealt with, avoid this seller",Negative,0.9998
+946,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+947,"It's fine, gets the job done without any issues tbh","It's fine, gets the job done without any issues tbh",Positive,0.9997
+948,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+949,"Terrible product, broke after 2 days!!! waste of money 😡 fr fr","Terrible product, broke after 2 days!!! waste of money fr fr",Negative,0.9998
+950,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+951,"Horrible quality, fell apart within a week 😠😠 fr fr","Horrible quality, fell apart within a week fr fr",Negative,0.9998
+952,"Poor quality control, item was broken on arrival ngl","Poor quality control, item was broken on arrival ngl",Negative,0.9997
+953,"I regret this purchase so much, total disappointment tbh","I regret this purchase so much, total disappointment tbh",Negative,0.9997
+954,"<p>Average product, met basic expectations.</p>","Average product, met basic expectations.",Positive,0.9831
+955,This product is AMAZING!!! Best purchase I've made this year 😍😍 ,This product is AMAZING!!! Best purchase I've made this year,Positive,0.9999
+956,Super impressed with the build quality and design 😊,Super impressed with the build quality and design,Positive,0.9998
+957,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+958,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+959,"decent for the price, not amazing but not bad either","decent for the price, not amazing but not bad either",Positive,0.9969
+960,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+961,"Horrible quality, fell apart within a week 😠😠 lol","Horrible quality, fell apart within a week lol",Negative,0.9998
+962,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+963,"Complete waste of money, doesn't work as described at all lol","Complete waste of money, doesn't work as described at all lol",Negative,0.9998
+964,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+965,"Does not work, false advertising, very upset customer lol","Does not work, false advertising, very upset customer lol",Negative,0.9997
+966,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+967,<p>Very disappointed. Quality is poor and it stopped working.</p>,Very disappointed. Quality is poor and it stopped working.,Negative,0.9998
+968,"Defective item, had to return it immediately","Defective item, had to return it immediately",Negative,0.9998
+969,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+970,"do not buy this, worst purchase ever tbh","do not buy this, worst purchase ever tbh",Negative,0.999
+971,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+972,"<span>Cheaply made, not worth the price at all</span>","Cheaply made, not worth the price at all",Negative,0.9998
+973,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+974,"Love love LOVE this product, can't recommend enough ngl","Love love LOVE this product, can't recommend enough ngl",Positive,0.998
+975,"Really good value for money, will buy again 👍","Really good value for money, will buy again",Positive,0.9997
+976,"Works exactly as advertised, no complaints at all!!! tbh","Works exactly as advertised, no complaints at all!!! tbh",Neutral,0.5747
+977,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+978,"Works fine I guess, no strong feelings either way","Works fine I guess, no strong feelings either way",Neutral,0.6292
+979,"I regret this purchase so much, total disappointment","I regret this purchase so much, total disappointment",Negative,0.9998
+980,"Horrible quality, fell apart within a week 😠😠","Horrible quality, fell apart within a week",Negative,0.9998
+981,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+982,"Standard quality, does what it says on the box","Standard quality, does what it says on the box",Positive,0.9946
+983,"Awful experience, customer service was useless too 👎","Awful experience, customer service was useless too",Negative,0.9998
+984,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+985,"Outstanding quality, arrived quickly, very satisfied customer here ","Outstanding quality, arrived quickly, very satisfied customer here",Positive,0.9998
+986,"<span>Best purchase ever, totally worth the price</span>","Best purchase ever, totally worth the price",Positive,0.9999
+987,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+988,"great quality, fast shipping, highly recommend!!","great quality, fast shipping, highly recommend!!",Positive,0.9999
+989,"Works exactly as advertised, no complaints at all!!!","Works exactly as advertised, no complaints at all!!!",Positive,0.9439
+990,"<p>Average product, met basic expectations.</p>","Average product, met basic expectations.",Positive,0.9831
+991,"<div>Excellent product, exactly as described. 5 stars!</div>","Excellent product, exactly as described. 5 stars!",Positive,0.9999
+992,"Extremely unhappy with this product, returning it ASAP","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+993,Super impressed with the build quality and design 😊 tbh,Super impressed with the build quality and design tbh,Positive,0.9994
+994,this is garbage honestly   never buying again,this is garbage honestly never buying again,Negative,0.9979
+995,"Five stars, no question. Will be buying more from this brand","Five stars, no question. Will be buying more from this brand",Neutral,0.5308
+996,"Extremely unhappy with this product, returning it ASAP ","Extremely unhappy with this product, returning it ASAP",Negative,0.9993
+997,<div>Product arrived damaged and seller refused refund.</div> lol,Product arrived damaged and seller refused refund. lol,Negative,0.9997
+998,<div>Product arrived damaged and seller refused refund.</div>,Product arrived damaged and seller refused refund.,Negative,0.9997
+999,"<div>It's an okay product, similar to others I've used.</div> ","It's an okay product, similar to others I've used.",Positive,0.9998
+1000,"Outstanding quality, arrived quickly, very satisfied customer here tbh","Outstanding quality, arrived quickly, very satisfied customer here tbh",Positive,0.9995

@@ -184,3 +184,19 @@
 - Documented honest finding: regularization improved training stability but did not fix class imbalance both models still failed to detect minority class
 - Explained inverted dropout scaling (1/(1-p)) and BatchNorm's learnable γ/β parameters mathematically
 - **Files:** `Week4/deep_learning_baseline.ipynb`, `Week4/baseline_vs_regularized_loss.png`
+
+---
+
+## Week5
+
+---
+
+### Day 17: Hugging Face Transformers: Pre-trained Sentiment Analysis Pipeline
+- Cleaned 1,000 raw customer reviews using Regex (HTML tags, emojis, whitespace)
+- Loaded pre-trained DistilBERT sentiment model via Hugging Face pipeline() zero training/fine-tuning
+- Ran inference on all reviews, added Predicted_Sentiment and Confidence_Score columns
+- Applied 0.65 confidence threshold to map uncertain binary predictions into a third Neutral class
+- Result distribution: Positive 532, Negative 409, Neutral 59
+- Documented embedding vector space theory and attention mechanism mathematically
+- Identified real limitation: binary model occasionally misclassifies neutral text as Positive with high confidence
+- **Files:** `Week5/nlp_sentiment_wrapper.ipynb`, `Week5/customer_reviews_with_sentiment.csv`, `Week5/sentiment_distribution.png`
