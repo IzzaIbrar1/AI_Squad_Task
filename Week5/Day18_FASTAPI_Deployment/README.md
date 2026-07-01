@@ -13,7 +13,19 @@ Move the trained Loan Default model from a Jupyter Notebook into a production-st
 | Method | Path | Description |
 |--------|------|-------------|
 | GET | `/health-check` | Returns `{"status": "API is live"}` |
-| POST | `/predict` | Accepts a JSON payload, currently echoes it back |
+| POST | `/predict` | Accepts validated LoanApplication JSON, returns prediction |
+
+### Sample Response
+```json
+{
+  "loan_default_prediction": 0,
+  "default_probability": 0.1267,
+  "interpretation": "Low risk of default"
+}
+```
+
+### Validation
+Invalid input (wrong types) automatically returns 422 Unprocessable Entity — the model never receives corrupted data.
 
 ### How to Run
 ```bash
