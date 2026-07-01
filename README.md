@@ -1,4 +1,4 @@
-# AI Squad Internship Tasks — Prosensia
+# AI Squad Internship Tasks: Prosensia
 
 ## Week 1
 
@@ -200,3 +200,24 @@
 - Documented embedding vector space theory and attention mechanism mathematically
 - Identified real limitation: binary model occasionally misclassifies neutral text as Positive with high confidence
 - **Files:** `Week5/nlp_sentiment_wrapper.ipynb`, `Week5/customer_reviews_with_sentiment.csv`, `Week5/sentiment_distribution.png`
+
+---
+
+### Day 18: Model Serialization & FastAPI, Production REST API Scaffold
+- Initialized clean directory, no Jupyter notebooks (production .py files only)
+- Built main.py loading final_loan_default_model.pkl via joblib at server startup
+- Created FastAPI app with GET /health-check and placeholder POST /predict
+- Verified Swagger UI at localhost:8000/docs, both endpoints returned 200 OK
+- Confirmed payload printing to terminal on POST /predict
+- Documented pickling mechanics and the security risk of loading untrusted .pkl files
+- **Files:** `Week5/Day18_FastAPI_Deployment/main.py`, `Week5/Day18_FastAPI_Deployment/final_loan_default_model.pkl`
+
+---
+
+### Day 19: Pydantic Validation & Live Model Inference, FastAPI POST Endpoint
+- Upgraded POST /predict with strict Pydantic LoanApplication schema (22 typed fields)
+- Invalid input automatically returns 422, model never receives corrupted data
+- Converts validated input to Pandas DataFrame, runs model.predict(), returns JSON
+- Verified: valid input returns prediction + probability + interpretation
+- Verified: string input where int expected returns 422 Unprocessable Entity
+- **Files:** `Week5/Day18_FastAPI_Deployment/main.py`
