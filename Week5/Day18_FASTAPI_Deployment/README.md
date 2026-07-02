@@ -47,3 +47,26 @@ Loading an untrusted `.pkl` file from an external or unknown source is a serious
 | `main.py` | FastAPI application |
 | `final_loan_default_model.pkl` | Trained Gradient Boosting model |
 | `requirements.txt` | Python dependencies |
+
+---
+
+## Day 20 Update: OOD Guardrails & Postman Testing
+
+### Validation Layers (in order)
+1. **Pydantic** — wrong data type → 422 automatically
+2. **OOD Guardrails** — out-of-range values → 400 custom error
+3. **Model** — only clean, in-distribution data reaches here
+
+### Statistical Boundaries (based on training data)
+| Feature | Min | Max |
+|---------|-----|-----|
+| Age | 21 | 70 |
+| Annual_Income | $15,000 | $250,000 |
+| Loan_Amount | $1,000 | $73,511 |
+| Credit_Score | 300 | 850 |
+| Debt_to_Income_Ratio | 0.01 | 0.95 |
+| Employment_Years | 0 | 40 |
+
+### Postman Test Result
+Sending Age=-5 returned: `{"detail": "OOD Error: Age -5 is outside training range (21-70)."}`
+Status: 400 Bad Request

@@ -221,3 +221,14 @@
 - Verified: valid input returns prediction + probability + interpretation
 - Verified: string input where int expected returns 422 Unprocessable Entity
 - **Files:** `Week5/Day18_FastAPI_Deployment/main.py`
+
+---
+
+### Day 20: OOD Guardrails & Postman API Testing
+- Added statistical boundary validation to /predict before data reaches the model
+- Boundaries based on training dataset ranges (Age 21-70, Income $15k-$250k, Credit Score 300-850, etc.)
+- Invalid values return clean 400 Bad Request with descriptive OOD error message
+- Three-layer protection: Pydantic (422) → OOD guardrails (400) → Model
+- Tested via Postman: Age=-5 returned `{"detail": "OOD Error: Age -5 is outside training range (21-70)."}`
+- No 500 Internal Server Errors produced under any tested condition
+- **Files:** `Week5/Day18_FastAPI_Deployment/main.py`, `Week5/Day18_FastAPI_Deployment/postman_ood_test.png`
