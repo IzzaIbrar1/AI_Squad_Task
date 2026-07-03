@@ -232,3 +232,13 @@
 - Tested via Postman: Age=-5 returned `{"detail": "OOD Error: Age -5 is outside training range (21-70)."}`
 - No 500 Internal Server Errors produced under any tested condition
 - **Files:** `Week5/Day18_FastAPI_Deployment/main.py`, `Week5/Day18_FastAPI_Deployment/postman_ood_test.png`
+
+---
+
+### Day 21: FastAPI Response Models: Structured Prediction Output
+- Created PredictionResponse Pydantic model with prediction, confidence_score, interpretation fields
+- Updated /predict to use response_model=PredictionResponse, endpoint no longer returns raw dict
+- Swagger /docs now auto-generates response schema documentation
+- Tested via Postman: valid input returns structured JSON matching PredictionResponse exactly
+- Full three-layer API protection now complete: Pydantic (422) → OOD (400) → Response Model
+- **Files:** `Week5/Day18_FastAPI_Deployment/main.py`, `Week5/Day18_FastAPI_Deployment/postman_response_model_test.png`

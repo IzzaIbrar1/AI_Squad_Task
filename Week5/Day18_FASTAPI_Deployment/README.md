@@ -70,3 +70,26 @@ Loading an untrusted `.pkl` file from an external or unknown source is a serious
 ### Postman Test Result
 Sending Age=-5 returned: `{"detail": "OOD Error: Age -5 is outside training range (21-70)."}`
 Status: 400 Bad Request
+
+---
+
+## Day 21 Update: Response Models: Structured Prediction Output
+
+### What Changed
+- Added `PredictionResponse` Pydantic model defining the exact output schema
+- `/predict` endpoint now uses `response_model=PredictionResponse` no raw dicts returned
+- Swagger `/docs` now displays the response schema automatically
+
+### Response Schema
+```json
+{
+  "prediction": 0,
+  "confidence_score": 0.1267,
+  "interpretation": "Low risk of default"
+}
+```
+
+### Full Validation Stack (all three layers active)
+1. Pydantic request schema — wrong type → 422
+2. OOD guardrails — out-of-range values → 400
+3. Response model — output always matches defined schema
