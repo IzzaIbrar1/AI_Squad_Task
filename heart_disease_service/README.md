@@ -11,7 +11,7 @@ using a Gradient Boosting classifier.
 | `train_model.py` | Trains the model, prints accuracy/ROC-AUC, saves `model.pkl` |
 | `main.py` | FastAPI app: Pydantic validation, OOD guardrails, `/predict` endpoint |
 | `requirements.txt` | Dependencies |
-| `model.pkl` | Trained model (~200 KB — safe to commit, no size issues) |
+| `model.pkl` | Trained model (~200 KB, safe to commit, no size issues) |
 
 ## Setup
 
@@ -30,7 +30,7 @@ Swagger UI: http://127.0.0.1:8000/docs
 - Accuracy: 0.89
 - ROC-AUC: 0.97
 
-These numbers are on synthetic data — treat them as a sanity check that the
+These numbers are on synthetic data, treat them as a sanity check that the
 pipeline works end to end, not as a claim about real-world clinical accuracy.
 
 ## Endpoints
