@@ -72,18 +72,35 @@ def check_ood(data: PatientData) -> list[str]:
     return flagged
 
 
-@app.get("/")
+@app.get("/", summary="Root", tags=["Health"])
 def root():
+    """Basic liveness check,  confirms the service is running."""
     return {"status": "ok", "service": "Heart Disease Risk Prediction API"}
 
 
-@app.get("/health")
+@app.get("/health", summary="Health check", tags=["Health"])
 def health():
+    """Confirms the service is up and the trained model loaded successfully."""
     return {"status": "healthy", "model_loaded": model is not None}
 
 
-@app.post("/predict", response_model=PredictionResponse)
+@app.post(
+    "/predict",
+    response_model=PredictionResponse,
+    summary="Predict heart disease risk",
+    tags=["Prediction"],
+)
 def predict(patient: PatientData):
+    """
+    Takes 13 clinical measurements and returns a heart disease risk prediction.
+
+    - Returns **422** if a field is missing, has the wrong type, or fails a
+      hard physiological bound (e.g. negative age).
+    - Returns **400** if a value is technically valid but far outside the
+      range the model was trained on (out-of-distribution input).
+    - Returns **200** with `prediction`, `probability`, and `confidence`
+      otherwise.
+    """
     ood_violations = check_ood(patient)
     if ood_violations:
         raise HTTPException(

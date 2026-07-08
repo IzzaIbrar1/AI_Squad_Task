@@ -35,8 +35,8 @@ pipeline works end to end, not as a claim about real-world clinical accuracy.
 
 ## Endpoints
 
-- `GET /health` — liveness check
-- `POST /predict` — takes 13 clinical fields, returns prediction + probability + OOD flag
+- `GET /health`  liveness check
+- `POST /predict`  takes 13 clinical fields, returns prediction + probability + OOD flag
 
 Example request body:
 ```json
@@ -51,10 +51,10 @@ Example request body:
 
 Two layers:
 
-1. **Pydantic hard bounds** (e.g. `trestbps` between 60–250) — physiologically
+1. **Pydantic hard bounds** (e.g. `trestbps` between 60–250) physiologically
    impossible values are rejected with `422` before they even reach the
    prediction logic.
-2. **`TYPICAL_RANGES` in `main.py`** — a tighter check against the range
+2. **`TYPICAL_RANGES` in `main.py`** a tighter check against the range
    actually seen in training data. A value can pass Pydantic (e.g.
    `chol: 650` is physiologically plausible) but still be far outside what
    the model was trained on. These are rejected with `400`, since a
@@ -70,16 +70,9 @@ Two layers:
 5. Send a request missing a field → `422` listing exactly which field is missing
 6. Send genuinely broken JSON (e.g. a trailing comma or unclosed brace) → `422`, not `500`
 
-## Pushing to GitHub — avoiding your recurring issues
+## Pushing to GitHub
 
-1. **Run git commands from this project's root folder**, not from inside a
-   subfolder. If your terminal prompt shows you're inside `ML Tasks/` and not
-   this specific project folder, `cd` up/down before running `git add`.
-2. `model.pkl` here is ~200 KB — nowhere near GitHub's 100 MB limit, so it's
-   safe to commit directly. The pkl-too-large issue only shows up if you
-   accidentally save a model with large embedded data (e.g. word vectors) —
-   not the case here.
-3. Suggested commands:
+1. Commands:
    ```bash
    git add .
    git commit -m "Heart disease risk prediction microservice"
