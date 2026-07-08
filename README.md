@@ -242,3 +242,34 @@
 - Tested via Postman: valid input returns structured JSON matching PredictionResponse exactly
 - Full three-layer API protection now complete: Pydantic (422) → OOD (400) → Response Model
 - **Files:** `Week5/Day18_FastAPI_Deployment/main.py`, `Week5/Day18_FastAPI_Deployment/postman_response_model_test.png`
+
+
+---
+
+
+### Weekend Project: Heart Disease Risk Prediction Service
+
+**Folder:** `heart_disease_service/`
+
+Built a standalone AI microservice from scratch separate from the Week 4 FastAPI project as the Month 1 weekend deliverable.
+
+**What it does:**
+- Generates a synthetic clinical dataset (2000 patients, 13 features) with realistic correlations between age, cholesterol, chest pain type, etc. and heart disease risk
+- Trains a Gradient Boosting classifier (89% accuracy, 0.97 ROC-AUC on held-out test data)
+- Serves predictions through a FastAPI microservice with:
+  - Pydantic input validation (rejects bad types/missing fields with 422)
+  - Out-of-distribution guardrails (rejects clinically implausible inputs with 400)
+  - A structured prediction response (risk label, probability, confidence)
+- Fully tested via Swagger UI  valid input, OOD input, wrong types, missing fields, and malformed JSON all return the correct status codes with no server crashes
+
+**Note:** Model metrics are on synthetic data, not real clinical validation this is a pipeline/architecture deliverable, not a clinically validated tool.
+
+**Run it:**
+```bash
+cd heart_disease_service
+pip install -r requirements.txt
+python generate_dataset.py
+python train_model.py
+uvicorn main:app --reload
+```
+Docs at `http://127.0.0.1:8000/docs`.
